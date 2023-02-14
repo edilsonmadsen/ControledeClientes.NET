@@ -1,7 +1,7 @@
 # ControledeClientes.NET
 <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/92545393/218128009-2e8166fe-400d-4319-b604-e0b1cfeed515.jpg" width="300px"/>
+  <img src="https://user-images.githubusercontent.com/92545393/218763711-08ef0585-3bca-4476-92cd-864de575788f.jpg" width="300px"/>
 </div>
 <br>
 
@@ -20,7 +20,7 @@ Cadastro de Cliente com as seguintes tecnologias:
 
 ## ⚙️ Demonstração do projeto em execução
 
-https://user-images.githubusercontent.com/92545393/218149977-84501efc-34c3-49eb-af04-86cf960bd093.mp4
+https://user-images.githubusercontent.com/92545393/218764350-c32aceef-f25b-4f20-a290-fd1f4cf716be.mp4
 
 
 ## 📌 Deploy do Projeto
@@ -35,40 +35,33 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
 ### 🔧 Instalação
 
-Instalar as dependências da implantação para execução do projeto:
+Instalar no NuGet Package Manager:
 
 ```
-npm install
-```
-
-E após para dar o start:
-
-```
-npm start - pasta frontend
-npm start - pasta backend
+Microsoft.EntityFrameworkCore
 ```
 
 ```
-abrir no seu navegador o seguinte link: https://localhost:4200
+Microsoft.EntityFrameworkCore.Design
+```
+```
+Microsoft.EntityFrameworkCore.SqlServer
+```
+```
+Microsoft.EntityFrameworkCore.Tools
 ```
 
-
-## 📦 Implantação
-
-Abra o terminal na raiz do projeto e adicione as seguintes dependências:
- 
-npm init -y <br>
-npm i json-server <br>
-npm i -g @angular/cli <br>
-ng add @angular/material
-
+Executar o projeto.
+```
 
 ## 🛠️ Construído com as seguintes linguagens e frameworks:
 
-* Angular
-* Typescript
-* HTML
-* CSS
+* Web com Asp.net MVC
+* .NET
+* C#
+* SqlServer
+* Entity Framework
+
 
 ## ✒️ Autor
 

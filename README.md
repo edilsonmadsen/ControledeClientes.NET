@@ -46,7 +46,7 @@ Microsoft.EntityFrameworkCore.SqlServer
 Microsoft.EntityFrameworkCore.Tools
 ```
 
-Executar o projeto.
+Executar o projeto
 ```
 
 ## 🛠️ Construído com as seguintes linguagens e frameworks:

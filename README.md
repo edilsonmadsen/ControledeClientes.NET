@@ -5,7 +5,6 @@
   <img src="https://user-images.githubusercontent.com/92545393/218763711-08ef0585-3bca-4476-92cd-864de575788f.jpg" width="300px"/>
 </div>
 <br>
-
 Cadastro de Cliente com as seguintes tecnologias:
 
 * Aplicação Web com Asp.net MVC(HTML,CSS,Java Script, JQuery)
